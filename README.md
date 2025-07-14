@@ -6,7 +6,7 @@ This repository contains the official implementation of the paper:
 **4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**
 
 **Authors:**  
-Shanshan Zhong, [Jiawei Peng](https://scholar.google.com/citations?user=4jdUy5AAAAAJ), [Zehan Zheng](https://scholar.google.com/citations?user=Pig6X6MAAAAJ), [Zhongzhan Huang](https://scholar.google.com/citations?user=R-b68CEAAAAJ), [Wufei Ma](https://scholar.google.com/citations?user=mYkvHdIAAAAJ), [Guofeng Zhang](https://scholar.google.com/citations?user=vl0mzhEAAAAJ), [Qihao Liu](https://scholar.google.com/citations?user=WFl3hH0AAAAJ), [Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ), [Jieneng Chen](https://scholar.google.com/citations?user=yLYj88sAAAAJ)
+[Shanshan Zhong](https://github.com/zhongshsh/4D-Animal), [Jiawei Peng](https://scholar.google.com/citations?user=4jdUy5AAAAAJ), [Zehan Zheng](https://scholar.google.com/citations?user=Pig6X6MAAAAJ), [Zhongzhan Huang](https://scholar.google.com/citations?user=R-b68CEAAAAJ), [Wufei Ma](https://scholar.google.com/citations?user=mYkvHdIAAAAJ), [Guofeng Zhang](https://scholar.google.com/citations?user=vl0mzhEAAAAJ), [Qihao Liu](https://scholar.google.com/citations?user=WFl3hH0AAAAJ), [Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ), [Jieneng Chen](https://scholar.google.com/citations?user=yLYj88sAAAAJ)
 
 
 ## News
