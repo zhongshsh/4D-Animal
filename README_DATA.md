@@ -11,7 +11,7 @@ size_categories:
 
 External data from the paper: **4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**. 
 
-| [**ArXiv**](xxx) | [**Code**](xxx) |
+| [**ArXiv**](https://arxiv.org/pdf/2507.10437) | [**Code**](https://github.com/zhongshsh/4D-Animal) |
 
 ## Data Tree
 
@@ -79,15 +79,16 @@ This is **not** a new dataset. All data used in this project are derived from ex
 
 We fully adhere to the terms of use and licenses of all referenced datasets. If you believe that any part of the data presented here violates applicable rights or policies, please contact us. We are committed to addressing any such concerns promptly and appropriately.
 
+## Citation
 
-<!-- ## Citation
+If you find our work useful, please consider citing:
 
 ```
-@article{xxx,
+@article{zhong20254danimal,
   title={4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos},
-  author={xxx},
+  author={Zhong, Shanshan and Peng, Jiawei and Zheng, Zehan and Huang, Zhongzhan and Ma, Wufei and Zhang, Guofeng and Liu, Qihao and Yuille, Alan and Chen, Jieneng},
   journal={ArXiv},
   year={2025},
-  volume={abs/xxx},
+  volume={abs/2507.10437},
 }
-``` -->
+```
