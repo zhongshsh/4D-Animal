@@ -1,6 +1,6 @@
 # 4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos
 
-| [**ArXiv**](xxx) | [**Code**](https://github.com/zhongshsh/4D-Animal) |
+| [**ArXiv**](https://arxiv.org/pdf/2507.10437) | [**Code**](https://github.com/zhongshsh/4D-Animal) |
 
 This repository contains the official implementation of the paper:  
 **4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos**
@@ -76,15 +76,15 @@ We would like to express our sincere gratitude to the authors of [Animal Avatar]
 
 We also thank the developers of the following projects [DINO](https://github.com/facebookresearch/dino), [CSE](https://arxiv.org/pdf/2011.12438), [PartGLEE](https://github.com/ProvenceStar/PartGLEE), and [BootsTAP](https://bootstap.github.io/) for contributing such impressive models to our community. 
 
-<!-- ## Citation
+## Citation
 
 If you find our work useful, please consider citing:
 ```
-@article{xxx,
+@article{zhong20254danimal,
   title={4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos},
-  author={xxx},
+  author={Zhong, Shanshan and Peng, Jiawei and Zheng, Zehan and Huang, Zhongzhan and Ma, Wufei and Zhang, Guofeng and Liu, Qihao and Yuille, Alan and Chen, Jieneng},
   journal={ArXiv},
   year={2025},
-  volume={abs/xxx},
+  volume={abs/2507.10437},
 }
-``` -->
+```
