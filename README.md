@@ -10,6 +10,7 @@ This repository contains the official implementation of the paper:
 
 
 ## News
+- **2025-11-11**: Our paper has been accepted to WACV 2026 🎉🎉
 - **2025-07-15**: Initial code release 🎉
 
 
